@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  text-shadow: orange;
+}
+
+p {
+  font-family: fantasy;
+  color: brown;
+}
+
+div{
+background-image: url("cosmos.jpg");
+
+}
+hr{
+padding:10px;
+
+}
+body{
+
+background-color: lightblue;
+
+}
+form{background-color: lightblue;}
